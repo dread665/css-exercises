@@ -1,0 +1,11 @@
+.botão1{background-color: 
+    #000000;
+color: white ;}
+
+
+.botão2{background-color:rgb(224, 224, 44) ;}
+
+.botão1,.botão2{
+    font-size: 28px;
+    font-family: 'Helvetica',Times new roman,sans-serif;
+}
